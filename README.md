@@ -12,9 +12,6 @@
 [![Email](https://img.shields.io/badge/EMAIL-prajnadeepsarma%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0c)](mailto:prajnadeepsarma@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-SarmaHighOnCode-2563eb?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0c)](https://github.com/SarmaHighOnCode)
 
-![Profile views](https://komarev.com/ghpvc/?username=SarmaHighOnCode&label=Profile+views&color=f59e0b&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/SarmaHighOnCode?style=for-the-badge&label=FOLLOWERS&color=f59e0b&labelColor=0a0a0c)
-
 </div>
 
 ---
