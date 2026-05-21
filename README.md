@@ -2,7 +2,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-prajnadeepsarma.me-f59e0b?style=for-the-badge)](https://prajnadeepsarma.me)
 [![Email](https://img.shields.io/badge/EMAIL-prajnadeepsarma%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajnadeepsarma@gmail.com)
-![Followers](https://img.shields.io/github/followers/SarmaHighOnCode?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563eb)
+
 
 ---
 
