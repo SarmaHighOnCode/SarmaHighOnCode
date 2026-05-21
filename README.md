@@ -1,65 +1,110 @@
-# Pragmatic / Tinkerer / Rational-Optimist
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   PRAJNADEEP  SARMA                                                  ║
+║   pragmatic tinkerer · rational optimist · cse undergrad             ║
+║                                                                      ║
+║   > BOOT SEQUENCE INITIATED ............................. [  OK  ]   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-prajnadeepsarma.me-f59e0b?style=for-the-badge)](https://prajnadeepsarma.me)
-[![Email](https://img.shields.io/badge/EMAIL-prajnadeepsarma%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajnadeepsarma@gmail.com)
+```bash
+$ whoami
+prajnadeep — a builder at the seam of software and the physical world.
+i'm calculative by default, but i'll chase a "what if...?" into the weekend.
 
+$ uname -a
+SarmaHighOnCode 1.0 #builder x86_64 / esp32 / silicon GNU/Curious
+
+$ cat ./philosophy.txt
+> "every system around us is complex, often broken, and rebuildable.
+>  through logic and relentless iteration, anything — a quadruped robot,
+>  a neural network, my own physical limits — can be dismantled,
+>  understood, and rebuilt into something better."
+```
 
 ---
 
-## 🧠 About me
+```bash
+$ cat ./status.now
 
-I'm **Prajnadeep Sarma** — a CSE undergrad and a builder who likes problems that sit at the seam of **software and the physical world**. I'm calculative by default but I'll happily chase a *"what if…?"* into the weekend.
+  building    Maple              ESP32 walking robot
+              INKFORGE           handwriting synthesis (LSTM + MDN)
+              swasthya-setu      AI healthcare companion in Hindi
 
-I call myself a **Pragmatic Tinkerer / Rational Optimist** — most systems around us, from neural networks to gym splits to civic infrastructure, are complex, often broken, and *rebuildable*. So I keep iterating. I'm openly **eager to learn**: every repo here is me picking up something I didn't know last month.
+  shipped     RoadSOS            offline-first PWA, 195 countries
+              acm-orbital        J2-perturbed orbital propagator
+              Proximity          anonymous GPS campus platform
+              WarrantyVault      next.js + R3F + GSAP
+              ShadowIntern       narrative web game
 
-**Achievements:**
-- 🚀 Member of **QUANTIVEX** — pre-incubation startup approved at **MUJ E-Cell** (Sep 2025).
-- 🥈 **Second place** at a MUJ club hackathon.
-- 🏆 With Team **Strawhats** on **Proximity**, an anonymous GPS-verified campus platform — **Top 10, AMD Slingshot Jaipur Regionals.**
-
-I write about all of it at **[prajnadeepsarma.me](https://prajnadeepsarma.me)**.
-
-> Tech I've touched lately: **Python / FastAPI**, **React / Next.js / Astro / TypeScript**, **PyTorch**, **Three.js · R3F · GSAP**, **ESP32 / FreeRTOS / TinyML**, **Flutter**, **Docker**.
+  learning    orbital mechanics · FreeRTOS · TinyML · ESP-NOW · R3F
+```
 
 ---
 
-## 🔧 Toolbox
+```bash
+$ cat ./receipts.log
+
+  [2025-09]  QUANTIVEX     pre-incubation approved @ MUJ E-Cell
+  [2026   ]  MUJ hackathon 2nd place
+  [2026   ]  AMD Slingshot top 10, jaipur regionals (Team Strawhats)
+```
+
+---
+
+```bash
+$ ls ./toolbox/
+```
 
 ![Skills](https://skillicons.dev/icons?i=python,fastapi,js,ts,react,nextjs,astro,threejs,tailwind,pytorch,cpp,c,arduino,flutter,dart,vite,docker,git,github,vercel,linux,vscode)
 
 ---
 
-## 🚀 Pinned & featured
+```bash
+$ ls ./projects/ | head
 
-### 🛰️ Simulation & ML
-- **acm-orbital** ⭐ — Autonomous Constellation Manager: J2-perturbed orbital propagation, Tsiolkovsky maneuvers, KDTree conjunction assessment, real-time WebGL viz.
-  *Stack:* FastAPI · DOP853 · Three.js · [Code](https://github.com/SarmaHighOnCode/acm-orbital)
-- **INKFORGE** 🚧 *In development* — Human-like handwriting synthesis. LSTM + MDN stroke-level generation.
-  *Stack:* PyTorch · FastAPI · React · [Code](https://github.com/SarmaHighOnCode/INKFORGE)
+  ⭐ acm-orbital            FastAPI · DOP853 · Three.js
+     RoadSOS / IITM         React · FastAPI · Leaflet · Workbox
+     Proximity              Python · TypeScript
+  🚧 INKFORGE               PyTorch · FastAPI · React
+  🚧 swasthya-setu          Python · Docker
+  🚧 Maple                  ESP32 · Arduino · C++ · CAD
+     WarrantyVault          Next.js · R3F · GSAP
+  ⭐ ShadowIntern            JS · CSS
+     personal-blog          Astro SSG · indie-web
+```
 
-### 🌍 Apps for impact
-- **RoadSOS** — AI-prioritised offline-first PWA for road accidents. Works across 195 countries with zero network. *IIT Madras Road Safety Hackathon 2026.*
-  *Stack:* React · FastAPI · Leaflet · Workbox · [Code](https://github.com/SarmaHighOnCode/IITM)
-- **Proximity** — Anonymous, GPS-verified campus platform. *Top 10, AMD Slingshot Jaipur Regionals.*
-  *Stack:* Python · TypeScript · [Code](https://github.com/SarmaHighOnCode/Proximity)
-- **swasthya-setu** 🚧 *In development* — AI rural healthcare companion in Hindi. *CodeCure AI Hackathon, SPIRIT'26.*
-  *Stack:* Python · Docker · [Code](https://github.com/SarmaHighOnCode/swasthya-setu)
-
-### 🎮 Creative / Web
-- **ShadowIntern** (randomize-hackthon) ⭐ — Narrative, darkly-comedic web game about corporate-internship hell.
-  *Stack:* JS · CSS · [Code](https://github.com/SarmaHighOnCode/randomize-hackthon)
-- **WarrantyVault** — Warranty management app with full-stack Next.js and a 3D web UI.
-  *Stack:* Next.js · React-Three-Fiber · GSAP · [Code](https://github.com/SarmaHighOnCode/warranty-vault)
-- **personal-blog** — Astro SSG, indie-web, no analytics. · [Code](https://github.com/SarmaHighOnCode/personal-blog)
-
-### 🤖 Embedded / Hardware
-- **Maple** 🚧 *In development* — An ESP32-based walking robot, built on the open-source [Sesame](https://github.com/dorianborian/sesame-robot) platform. CAD, firmware, and gait experiments — focus on accessible expression-and-movement robotics.
-  *Stack:* ESP32 · Arduino · C++ · 3D-printed chassis · [Code](https://github.com/SarmaHighOnCode/Maple)
+Direct links:
+[acm-orbital](https://github.com/SarmaHighOnCode/acm-orbital) ·
+[RoadSOS](https://github.com/SarmaHighOnCode/IITM) ·
+[Proximity](https://github.com/SarmaHighOnCode/Proximity) ·
+[INKFORGE](https://github.com/SarmaHighOnCode/INKFORGE) ·
+[swasthya-setu](https://github.com/SarmaHighOnCode/swasthya-setu) ·
+[Maple](https://github.com/SarmaHighOnCode/Maple) ·
+[WarrantyVault](https://github.com/SarmaHighOnCode/warranty-vault) ·
+[ShadowIntern](https://github.com/SarmaHighOnCode/randomize-hackthon) ·
+[personal-blog](https://github.com/SarmaHighOnCode/personal-blog)
 
 ---
 
-## 📊 Stats
+```bash
+$ ./stats --user SarmaHighOnCode
+```
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SarmaHighOnCode&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarmaHighOnCode&layout=compact&theme=tokyonight&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=SarmaHighOnCode&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=SarmaHighOnCode&show_icons=true&theme=transparent&hide_border=true&title_color=f59e0b&icon_color=f59e0b&text_color=cbd5e1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarmaHighOnCode&layout=compact&theme=transparent&hide_border=true&title_color=f59e0b&text_color=cbd5e1)
+![Streak](https://streak-stats.demolab.com?user=SarmaHighOnCode&theme=transparent&hide_border=true&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b)
+
+---
+
+```bash
+$ curl https://prajnadeepsarma.me
+
+>  more writing, more tinkering, more half-formed thoughts.
+>  📡 portfolio  ·  prajnadeepsarma.me
+>  📬 email     ·  prajnadeepsarma@gmail.com
+
+$ _
+```
