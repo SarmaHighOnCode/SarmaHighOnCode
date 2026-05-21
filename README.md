@@ -1,9 +1,21 @@
+<div align="center">
+
 # Prajnadeep Sarma
 
-**CSE undergrad. Pragmatic Tinkerer. Rational Optimist.**
-I build at the intersection of code and circuits — software, hardware, and the messy seam between them.
+**CSE undergrad · Pragmatic Tinkerer · Rational Optimist**
 
-🔗 [prajnadeepsarma.me](https://prajnadeepsarma.me) · 📬 [prajnadeepsarma@gmail.com](mailto:prajnadeepsarma@gmail.com)
+*I build at the intersection of code and circuits — software, hardware, and the messy seam between them.*
+
+<br />
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-prajnadeepsarma.me-f59e0b?style=for-the-badge&logo=astro&logoColor=white&labelColor=0a0a0c)](https://prajnadeepsarma.me)
+[![Email](https://img.shields.io/badge/EMAIL-prajnadeepsarma%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0c)](mailto:prajnadeepsarma@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-SarmaHighOnCode-2563eb?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0c)](https://github.com/SarmaHighOnCode)
+
+![Profile views](https://komarev.com/ghpvc/?username=SarmaHighOnCode&label=Profile+views&color=f59e0b&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/SarmaHighOnCode?style=for-the-badge&label=FOLLOWERS&color=f59e0b&labelColor=0a0a0c)
+
+</div>
 
 ---
 
@@ -55,9 +67,31 @@ I build at the intersection of code and circuits — software, hardware, and the
 
 ## 📊 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SarmaHighOnCode&show_icons=true&theme=transparent&hide_border=true&title_color=f59e0b&icon_color=f59e0b&text_color=cbd5e1)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarmaHighOnCode&layout=compact&theme=transparent&hide_border=true&title_color=f59e0b&text_color=cbd5e1)
-![Streak](https://streak-stats.demolab.com?user=SarmaHighOnCode&theme=transparent&hide_border=true&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b)
+<div align="center">
+
+<a href="https://github.com/SarmaHighOnCode">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SarmaHighOnCode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0c&title_color=f59e0b&icon_color=f59e0b&text_color=cbd5e1" />
+</a>
+<a href="https://github.com/SarmaHighOnCode">
+  <img height="180" src="https://streak-stats.demolab.com?user=SarmaHighOnCode&theme=tokyonight&hide_border=true&background=0a0a0c&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=cbd5e1&dates=cbd5e1" />
+</a>
+
+<br />
+
+<a href="https://github.com/SarmaHighOnCode">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarmaHighOnCode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0c&title_color=f59e0b&text_color=cbd5e1&langs_count=10" />
+</a>
+<a href="https://github.com/SarmaHighOnCode">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SarmaHighOnCode&theme=tokyonight" />
+</a>
+
+<br />
+
+<a href="https://github.com/SarmaHighOnCode">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SarmaHighOnCode&theme=tokyonight" />
+</a>
+
+</div>
 
 ---
 
