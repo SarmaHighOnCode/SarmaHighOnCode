@@ -20,9 +20,7 @@
 
 - Building **Maple** — an ESP32 walking robot (gait + balance experiments)
 - Tuning **INKFORGE**'s LSTM + MDN handwriting model
-- Member work on **QUANTIVEX** at MUJ E-Cell
-- Eager to learn: FreeRTOS internals, R3F shaders, orbital perturbation theory
-
+  
 ---
 
 ## 🟠 Building *(in development)*
