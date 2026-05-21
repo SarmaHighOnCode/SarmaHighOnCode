@@ -39,10 +39,9 @@
 |---|---|---|
 | ⭐ **[acm-orbital](https://github.com/SarmaHighOnCode/acm-orbital)** | Autonomous constellation manager — J2-perturbed orbital propagation, Tsiolkovsky maneuvers, KDTree conjunction assessment, real-time WebGL viz | FastAPI · DOP853 · Three.js |
 | **[RoadSOS](https://github.com/SarmaHighOnCode/IITM)** | AI-prioritised offline-first PWA for road accidents, 195 countries · *IIT Madras Road Safety Hackathon '26* | React · FastAPI · Leaflet · Workbox |
-| **[Proximity](https://github.com/SarmaHighOnCode/Proximity)** | Anonymous GPS-verified campus platform · *Top 10, AMD Slingshot Jaipur Regionals* | Python · TypeScript |
+| ⭐**[Proximity](https://github.com/SarmaHighOnCode/Proximity)** | Anonymous GPS-verified campus platform · *Top 10, AMD Slingshot Jaipur Regionals* | Python · TypeScript |
 | **[WarrantyVault](https://github.com/SarmaHighOnCode/warranty-vault)** | Warranty management app with 3D web UI | Next.js · React-Three-Fiber · GSAP |
 | ⭐ **[ShadowIntern](https://github.com/SarmaHighOnCode/randomize-hackthon)** | Narrative, darkly-comedic web game about corporate-internship hell | JS · CSS |
-| **[personal-blog](https://github.com/SarmaHighOnCode/personal-blog)** | Indie-web blog, no analytics, no cookies | Astro SSG · TypeScript |
 
 ---
 
